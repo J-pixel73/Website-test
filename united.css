@@ -1,0 +1,8 @@
+.firsth{color:gray; text-decoration: none;margin: 0px 8px 0px 8px;}
+*{font-family: roboto;}
+.picture{height: 300px;}
+.box{border: 2px blue solid; padding: 40px; margin: 20px;}
+.white{color:white; font-size: 15px;}
+.gray{color:gray}
+.header{color:white;}
+.unobotton{background-color: rgb(28, 102, 206);color:white}
