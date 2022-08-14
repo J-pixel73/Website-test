@@ -1,8 +1,24 @@
 .firsth{color:gray; text-decoration: none;margin: 0px 8px 0px 8px;}
-*{font-family: roboto;}
-.picture{height: 300px;}
-.box{border: 2px blue solid; padding: 40px; margin: 20px;}
+*{font-family:Roboto;
+}
+@font-face{
+    font-family:Roboto;
+    src: url(Roboto/Roboto-Medium.ttf);
+    font-style: normal;
+    font-weight: 100;
+}
+.picture{height: 200px;}
+.box{border: 2px blue solid; border-radius: 10%; padding: 40px; margin: 0px 20px 0px 20px;}
+#txunder{display: flex; justify-content: center;}
 .white{color:white; font-size: 15px;}
 .gray{color:gray}
 .header{color:white;}
-.unobotton{background-color: rgb(28, 102, 206);color:white}
+.buttons{background-color: rgb(28, 102, 206);color:white; border: 1px rgb(28, 102, 206) solid;}
+.ados{align-items:center;}
+#loco{color: white; font-size: 30px;}
+.txunder{margin: 0px 30px 50px 30px ; max-width: 80px; text-align: center;}
+#third{background-color: rgb(220, 222, 235); display: flex;justify-content: center;}
+.main{display:flex; justify-content: center; background-color: rgb(29, 23, 23);}
+.mrwhite{background-color:white;}
+.last{background-color: rgb(67, 104, 227);}
+#fix{display: flex; justify-content: center;}
