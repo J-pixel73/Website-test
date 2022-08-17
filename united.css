@@ -17,8 +17,8 @@
 .ados{align-items:center;}
 #loco{color: white; font-size: 30px;}
 .txunder{margin: 0px 30px 50px 30px ; max-width: 80px; text-align: center;}
-#third{background-color: rgb(220, 222, 235); display: flex;justify-content: center;}
-.main{display:flex; justify-content: center; background-color: rgb(29, 23, 23);}
+#third{background-color: #E5E7EB; display: flex;justify-content: center;}
+.main{display:flex; justify-content: center; background-color: #1f2937;}
 .mrwhite{background-color:white;}
 .last{background-color: rgb(67, 104, 227);}
-#fix{display: flex; justify-content: center;}
+#fix{display: flex; justify-content: center; align-items: center;}
